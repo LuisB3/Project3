@@ -2,6 +2,9 @@
 Online Calculator homepage
 ![image](https://user-images.githubusercontent.com/522095/145614569-cdbb2f8f-566c-48fb-939d-f74a9bfb4ff1.png)
 
+Functioning footer with link to my GutHub Repo
+![image](https://user-images.githubusercontent.com/522095/145614849-ff1ff6fb-9ace-4bd3-aff2-a32e7f77a851.png)
+
 Warning for incorrect expected input format on calculator page
 ![image](https://user-images.githubusercontent.com/522095/145614323-1d287768-07c1-45e0-bfcd-7154414f5bf8.png)
 
