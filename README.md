@@ -1,6 +1,6 @@
 # Online Calculator
 Online Calculator homepage
-![image](https://user-images.githubusercontent.com/522095/145500458-68bff3d9-054a-4c30-9378-6dfc95402a47.png)
+![image](https://user-images.githubusercontent.com/522095/145614569-cdbb2f8f-566c-48fb-939d-f74a9bfb4ff1.png)
 Warning for incorrect expected input format on calculator page
 ![image](https://user-images.githubusercontent.com/522095/145614323-1d287768-07c1-45e0-bfcd-7154414f5bf8.png)
 Error/validation for missing value input
