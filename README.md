@@ -1,5 +1,7 @@
 # Online Calculator
+
 Online Calculator homepage
+
 ![image](https://user-images.githubusercontent.com/522095/145614569-cdbb2f8f-566c-48fb-939d-f74a9bfb4ff1.png)
 
 Functioning footer with link to my GutHub Repo
