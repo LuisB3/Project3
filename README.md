@@ -1,6 +1,14 @@
-# CSV Project Setup
+# Online Calculator
+Online Calculator homepage
 ![image](https://user-images.githubusercontent.com/522095/145500458-68bff3d9-054a-4c30-9378-6dfc95402a47.png)
-
+Warning for incorrect expected input format on calculator page
+![image](https://user-images.githubusercontent.com/522095/145614323-1d287768-07c1-45e0-bfcd-7154414f5bf8.png)
+Error/validation for missing value input
+![image](https://user-images.githubusercontent.com/522095/145614360-084b5ec9-8d1a-4855-bbbe-edc45ad446a7.png)
+Successful calculation flash message with accurate result
+![image](https://user-images.githubusercontent.com/522095/145614399-be594097-8a75-43d2-8da2-1940a7262e1e.png)
+Flash messages can be dismissed
+![image](https://user-images.githubusercontent.com/522095/145614443-348d3b9f-8f34-499c-a385-975ce6cdf190.png)
 
 Run Pip Install
 pip install -r requirements.txt
