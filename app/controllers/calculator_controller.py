@@ -7,10 +7,10 @@ class CalculatorController(ControllerBase):
     @staticmethod
     def post():
         if request.form['value1'] == '' or request.form['value2'] == '':
-            error = 'You must enter a value for value 1 and or value 2'
+            error = 'Please enter your values!'
         else:
-            flash('You successfully calculated')
-            flash('You are awesome')
+            flash('Congratulations on your calculation.')
+            flash('Way to go!')
 
             # get the values out of the form
             value1 = request.form['value1']
@@ -20,7 +20,7 @@ class CalculatorController(ControllerBase):
             my_tuple = (value1, value2)
             # this will call the correct operation
             getattr(Calculator, operation)(my_tuple)
-            result = str(Calculator.get_last_result_value())
+            result = str(Calculator.get_result_of_last_calculation_added_to_history())
             return render_template('result.html', value1=value1, value2=value2, operation=operation, result=result)
         return render_template('calculator2.html', error=error)
     @staticmethod
