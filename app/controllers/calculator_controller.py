@@ -26,9 +26,3 @@ class CalculatorController(ControllerBase):
     @staticmethod
     def get():
         return render_template('calculator2.html')
-
-
-
-
-
-
