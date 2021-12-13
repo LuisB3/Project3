@@ -34,4 +34,4 @@ pytest  --pylint --cov
 .coveragerc is the config for coverage
 setup.py is a config file for pytest
 
-Test of branch FlashWebHW - LuisB
+Test of branch FlashWebHW on Project3HW repo - LuisB
